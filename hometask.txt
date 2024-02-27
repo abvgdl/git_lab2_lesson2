@@ -1,0 +1,2 @@
+1) fix readme в ветке master, различные merg'ы веток
+2)init; heat added; boots; EADME added; dots; fix readme
